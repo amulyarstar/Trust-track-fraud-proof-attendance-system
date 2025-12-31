@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #7860ef;
+  color: #4c85e8;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+ 
+  background-color: #8576d8; /* A soft grey-blue */
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+
+}
+
+.hidden { display: none; }
+
+button {
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+video, canvas {
+  border-radius: 10px;
+  margin-top: 10px;
+}
